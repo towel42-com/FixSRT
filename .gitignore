@@ -1,3 +1,5 @@
+build
+packages
 # C++ objects and libs
 *.slo
 *.lo
